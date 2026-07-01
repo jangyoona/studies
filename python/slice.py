@@ -37,3 +37,8 @@ print(new_list)
 reverse_list = list2[17:4:-4]
 
 print(reverse_list)
+
+# 문자열 역순 step 자리의 부호가 방향을 결정
+test_text = 'HumanDev'
+text2 = test_text[::-1]
+print(text2)
