@@ -1,0 +1,25 @@
+# Executables
+*.exe
+*.out
+*.app
+
+# Object files
+*.o
+*.obj
+
+# Debug files
+*.pdb
+
+# Build folders
+build/
+bin/
+out/
+
+# VS Code
+.vscode/
+
+# MSYS2 / GCC temp
+*.stackdump
+
+# Mac/Linux
+.DS_Store
